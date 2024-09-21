@@ -3,7 +3,7 @@
 - 🌱 Sou estudante do IFPB - Campus Cajazeiras
 - 💬 Curso informática integrado ao ensino médio
 - ⚡ E sou Poeta
-
+## Link do Curriculo: https://github.com/Isaque07/Curriculo.git
 <a href="https://github.com/Isaque07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaque07&show_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isaque07&layout=compact&langs_count=8&theme=algolia"/>
